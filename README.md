@@ -72,14 +72,12 @@ A dynamic travel booking platform with vanilla-JS DOM rendering, localStorage-ba
 > 📌 Check out my [pinned repos](https://github.com/Ishwarya-4?tab=repositories) for the full list, including backend and Python work.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishwarya-4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwarya-4&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+ 
+### 🎯 What I'm focused on right now
+ 
+- Building production-grade tools that combine traditional backend logic with LLM-powered automation
+- Strengthening my Python backend skills — FastAPI, testing, and API design
+- Looking for my next role: **SDE / Full-Stack / Frontend**, ideally at a startup or product team
 ---
 
 ### 📫 Let's connect
