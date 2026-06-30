@@ -38,8 +38,11 @@ Currently open to **SDE / Full-Stack / Frontend roles** — especially at startu
 </p>
 
 **Frontend:** React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Vite
+
 **Backend:** Python · FastAPI · Node.js · REST APIs
+
 **Data & Infra:** Supabase · SQL · Git/GitHub · Vercel
+
 **Also exploring:** LLM-powered tooling (Anthropic Claude API), TanStack Query, Zod
 
 ---
